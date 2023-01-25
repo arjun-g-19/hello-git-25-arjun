@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world!!!
+=======
+Hello we are learning Git!!
+Creating differnce in file.
+>>>>>>> 662d105143310fd2e4132c89c9b7b17e4dd93155
